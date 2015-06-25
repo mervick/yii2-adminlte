@@ -1,16 +1,12 @@
 {
-    "name": "yiisoft/yii2-app-advanced",
-    "description": "Yii 2 Advanced Project Template",
-    "keywords": ["yii2", "framework", "advanced", "project template"],
-    "homepage": "http://www.yiiframework.com/",
+    "name": "mervick/yii2-adminlte",
+    "description": "Yii2 Advanced Application With The AdminLTE Theme On The Backend",
+    "keywords": ["yii2", "framework", "advanced", "adminlte", "project template"],
+    "homepage": "https://github.com/mervick/yii2-adminlte",
     "type": "project",
     "license": "BSD-3-Clause",
     "support": {
-        "issues": "https://github.com/yiisoft/yii2/issues?state=open",
-        "forum": "http://www.yiiframework.com/forum/",
-        "wiki": "http://www.yiiframework.com/wiki/",
-        "irc": "irc://irc.freenode.net/yii",
-        "source": "https://github.com/yiisoft/yii2"
+        "source": "https://github.com/mervick/yii2-adminlte"
     },
     "minimum-stability": "stable",
     "require": {
@@ -23,7 +19,9 @@
         "yiisoft/yii2-codeception": "*",
         "yiisoft/yii2-debug": "*",
         "yiisoft/yii2-gii": "*",
-        "yiisoft/yii2-faker": "*"
+        "yiisoft/yii2-faker": "*",
+        "mervick/yii2-adminlte-debug": "*",
+        "mervick/yii2-adminlte-gii": "*"
     },
     "config": {
         "process-timeout": 1800
