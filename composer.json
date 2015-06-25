@@ -8,6 +8,13 @@
     "support": {
         "source": "https://github.com/mervick/yii2-adminlte"
     },
+    "authors": [
+        {
+            "name": "Andrey Izman",
+            "email": "izmanw@gmail.com",
+            "role": "Developer"
+        }
+    ],
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
